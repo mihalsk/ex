@@ -1,0 +1,12 @@
+/fasm/
+*.exe
+/test444.asm
+/test.asm
+/arr.asm
+/arr2.asm
+/eee.asm
+/ex-r80bit.asm
+/ex-r_x32.asm
+/ex-r_x32-80b.asm
+/ex-r_x32-80b2.asm
+/ex.asm
